@@ -53,3 +53,12 @@ JAVA 层工具,提供了 Android 基础的帮助类
 [![Coverage Status](https://coveralls.io/repos/github/Qixingchen/RV-Utils/badge.svg)](https://coveralls.io/github/Qixingchen/RV-Utils)
 
 提供 recycler view 的工具类. </br>
+
+### [android Share Bottom Sheet](https://github.com/Qixingchen/androidShareBottomSheet)
+[![Release](https://jitpack.io/v/Qixingchen/androidShareBottomSheet.svg?style=flat-square)](https://jitpack.io/#Qixingchen/androidShareBottomSheet)
+[![Build Status](https://travis-ci.org/Qixingchen/androidShareBottomSheet.svg?branch=master)](https://travis-ci.org/Qixingchen/androidShareBottomSheet)
+[![Coverage Status](https://coveralls.io/repos/github/Qixingchen/androidShareBottomSheet/badge.svg)](https://coveralls.io/github/Qixingchen/androidShareBottomSheet)
+
+提供分享选择器,加入了微信的分享 </br>
+
+
