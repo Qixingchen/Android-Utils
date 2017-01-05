@@ -62,3 +62,11 @@ JAVA 层工具,提供了 Android 基础的帮助类
 提供分享选择器,加入了微信的分享 </br>
 
 
+### [File Uploader](https://github.com/Qixingchen/File-Uploader)
+
+[![Release](https://jitpack.io/v/Qixingchen/File-Uploader.svg?style=flat-square)](https://jitpack.io/#Qixingchen/File-Uploader)
+[![Build Status](https://travis-ci.org/Qixingchen/File-Uploader.svg?branch=master)](https://travis-ci.org/Qixingchen/File-Uploader)
+[![Coverage Status](https://coveralls.io/repos/github/Qixingchen/File-Uploader/badge.svg)](https://coveralls.io/github/Qixingchen/File-Uploader)
+
+文件上传器,支持图片处理.使用 jobqueue 自动恢复进度. </br>
+
