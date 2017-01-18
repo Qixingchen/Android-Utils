@@ -70,3 +70,12 @@ JAVA 层工具,提供了 Android 基础的帮助类
 
 文件上传器,支持图片处理.使用 jobqueue 自动恢复进度. </br>
 
+### [Android-Gallery-Library](https://github.com/Qixingchen/Android-Gallery-Library)
+
+[![Release](https://jitpack.io/v/Qixingchen/Android-Gallery-Library.svg?style=flat-square)](https://jitpack.io/#Qixingchen/Android-Gallery-Library)
+[![Build Status](https://travis-ci.org/Qixingchen/Android-Gallery-Library.svg?branch=master)](https://travis-ci.org/Qixingchen/Android-Gallery-Library)
+[![Coverage Status](https://coveralls.io/repos/github/Qixingchen/Android-Gallery-Library/badge.svg)](https://coveralls.io/github/Qixingchen/Android-Gallery-Library)
+
+图片查看,可以用于引导图 </br>
+依赖  [Android Base Utils](https://github.com/Qixingchen/Android-Base-Utils) 
+
