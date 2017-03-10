@@ -79,7 +79,7 @@ JAVA 层工具,提供了 Android 基础的帮助类
 图片查看,可以用于引导图 </br>
 依赖  [Android Base Utils](https://github.com/Qixingchen/Android-Base-Utils) 
 
-### [VideoPlayer}(https://github.com/Qixingchen/VideoPlayer)
+### [VideoPlayer](https://github.com/Qixingchen/VideoPlayer)
 
 [![Release](https://jitpack.io/v/Qixingchen/VideoPlayer.svg?style=flat-square)](https://jitpack.io/#Qixingchen/VideoPlayer)
 [![Build Status](https://travis-ci.org/Qixingchen/VideoPlayer.svg?branch=master)](https://travis-ci.org/Qixingchen/VideoPlayer)
