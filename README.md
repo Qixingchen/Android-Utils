@@ -47,6 +47,14 @@ JAVA 层工具,提供了 Android 基础的帮助类
 获取图片的 RX 包装 . </br>
 依赖 [Rx Utils](https://github.com/Qixingchen/Rx-Utils)
 
+### [Rx Android Get File](https://github.com/Qixingchen/rx-android-file-picker)
+[![Release](https://jitpack.io/v/Qixingchen/rx-android-file-picker.svg?style=flat-square)](https://jitpack.io/#Qixingchen/rx-android-file-picker)
+[![Build Status](https://travis-ci.org/Qixingchen/rx-android-file-picker.svg?branch=master)](https://travis-ci.org/Qixingchen/rx-android-file-picker)
+[![Coverage Status](https://coveralls.io/repos/github/Qixingchen/rx-android-file-picker/badge.svg)](https://coveralls.io/github/Qixingchen/rx-android-file-picker)
+
+使用 RxJava 获取文件  
+依赖 [Rx Utils](https://github.com/Qixingchen/Rx-Utils)
+
 ### [Rv Utils](https://github.com/Qixingchen/RV-Utils)
 [![Release](https://jitpack.io/v/Qixingchen/RV-Utils.svg?style=flat-square)](https://jitpack.io/#Qixingchen/RV-Utils)
 [![Build Status](https://travis-ci.org/Qixingchen/RV-Utils.svg?branch=master)](https://travis-ci.org/Qixingchen/RV-Utils)
