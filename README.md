@@ -94,3 +94,12 @@ JAVA 层工具,提供了 Android 基础的帮助类
 [![Coverage Status](https://coveralls.io/repos/github/Qixingchen/VideoPlayer/badge.svg)](https://coveralls.io/github/Qixingchen/VideoPlayer)
 
 视频播放器 Base on ExoPlayer supported by ExoMedia
+
+
+### [Video Compress](https://github.com/Qixingchen/VideoCompress)
+
+[![Release](https://jitpack.io/v/Qixingchen/VideoCompress.svg?style=flat-square)](https://jitpack.io/#Qixingchen/VideoCompress)
+[![Build Status](https://travis-ci.org/Qixingchen/VideoCompress.svg?branch=master)](https://travis-ci.org/Qixingchen/VideoCompress)
+[![Coverage Status](https://coveralls.io/repos/github/Qixingchen/VideoCompress/badge.svg)](https://coveralls.io/github/Qixingchen/VideoCompress)
+
+Android RxJava Video Compress using Intel media for mobile and RxJava
